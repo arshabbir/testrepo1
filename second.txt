@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 this is modified form the main branch
 
 
 ok to check 
+=======
+second commit ...modifed from testfp1 
+>>>>>>> 1c90b1931a00be4a23f51c568ccf5da7f3aafc8a
